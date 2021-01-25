@@ -203,7 +203,7 @@ const Discord = require("discord.js");
 
 client.on("ready", () => {
 setInterval(async() => {
-  await axios.get("https://rightful-alluring-calf.glitch.me");
+  await axios.get("https://juvenile-lace-leaf.glitch.me/");
 }, 1500);
 })
 
